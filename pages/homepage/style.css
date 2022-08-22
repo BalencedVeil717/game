@@ -25,7 +25,7 @@
     border: 3px solid cornflowerblue;
     border-radius: 30px;
     padding: 7px;
-    background-image: url(/CALCULATOR/bg.jpg);
+    background-image: url(https://www.itl.cat/pngfile/big/85-851511_wallpaper-blue-cubes-abstract-pattern-4k-5k-3d.jpg);
     background-clip: padding-box;
     background-size: 10px;
     background-repeat: repeat;
@@ -64,7 +64,7 @@
 .gun {
     position: inherit;
     background-color: rgb(16, 241, 241);
-    background-image: url(/GAMEPAGE/images/gun/guns.jpg);
+    background-image: url(images/gun/guns.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 107px;
